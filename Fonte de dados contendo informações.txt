@@ -1,0 +1,27 @@
+Fonte de dados contendo informações sobre a quantidade de acidentes de trânsito de rodovias federais:
+https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf
+
+Fonte de dados contendo informações populacionais dos Estados Federais:
+https://basedosdados.org/dataset/d30222ad-7a5c-4778-a1ec-f0785371d1ca?table=b99f0017-e587-477e-8cfb-05fb5d1005b8
+
+Fonte de dados contendo informações sobre os indicadores socioeconômicos:
+http://www.ipeadata.gov.br/Default.aspx
+
+Fonte do estudo " A letalidade dos acidentes de trânsito nas rodovias federais brasileiras em 2016": 
+https://www.scielo.br/j/rbepop/a/bSFrhRpsZ7T6FSb9hYSbLzP/
+
+Fonte do estudo " ÍNDICE DE DESENVOLVIMENTO HUMANO MUNICIPAL (IDHM) NO BRASIL: UM RELATO DA DESIGUALDADE ENTRE EDUCAÇÃO, RENDA E LONGEVIDADE":
+https://www.easyplanners.net/alas2017/opc/tl/6675_alisson_renan_scheidt_alisson.pdf
+
+Fonte do estudo "Vulnerabilidade Social, Fome e Pobreza Nas Regiões Norte e Nordeste Do Brasil"
+https://www.academia.edu/60480433/Vulnerabilidade_Social_Fome_e_Pobreza_Nas_Regi%C3%B5es_Norte_e_Nordeste_Do_Brasil
+
+
+
+
+
+
+
+
+
+
